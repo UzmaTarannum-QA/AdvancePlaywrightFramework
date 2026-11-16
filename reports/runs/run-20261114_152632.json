@@ -1,0 +1,9 @@
+{
+  "runId": "20261114_152632",
+  "tests": {
+    "chromium › apiTests\\01_restfulbooker_raw\\06_put_operation_negative_scenario.spec.ts › Restful Booker booking API - PUT negative scenarios › TC#5 @p1 - PUT : Verify that update of a non-existent booking is rejected.": "passed",
+    "chromium › apiTests\\01_restfulbooker_raw\\06_put_operation_negative_scenario.spec.ts › Restful Booker booking API - PUT negative scenarios › TC#3 @p1 - PUT : Verify that update without a token is rejected.": "passed",
+    "chromium › apiTests\\01_restfulbooker_raw\\06_put_operation_negative_scenario.spec.ts › Restful Booker booking API - PUT negative scenarios › TC#4 @p1 - PUT : Verify that update with an invalid token is rejected.": "passed",
+    "chromium › apiTests\\01_restfulbooker_raw\\06_put_operation_negative_scenario.spec.ts › Restful Booker booking API - PUT negative scenarios › TC#6 @p1 - PUT : Verify that update with a missing required field is rejected.": "passed"
+  }
+}

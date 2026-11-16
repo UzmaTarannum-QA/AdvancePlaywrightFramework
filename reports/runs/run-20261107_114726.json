@@ -1,0 +1,6 @@
+{
+  "runId": "20261107_114726",
+  "tests": {
+    "chromium › apiTests\\01_restfulbooker_raw\\03_PUT_request.spec.ts › Update bokking › TC#2 @p0 - PUT : Verify that update the existing booking is working fine.": "passed"
+  }
+}

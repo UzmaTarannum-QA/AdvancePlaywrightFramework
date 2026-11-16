@@ -1,0 +1,8 @@
+{
+  "runId": "20261110_150259",
+  "tests": {
+    "chromium › apiTests\\01_restfulbooker_raw\\05_crud.spec.ts › Restful Booker CRUD API › TC#1 @p0 - Create token": "passed",
+    "chromium › apiTests\\01_restfulbooker_raw\\05_crud.spec.ts › Restful Booker CRUD API › TC#2 @p0 - Create booking": "passed",
+    "chromium › apiTests\\01_restfulbooker_raw\\05_crud.spec.ts › Restful Booker CRUD API › TC#3 @p0 - Update booking": "passed"
+  }
+}

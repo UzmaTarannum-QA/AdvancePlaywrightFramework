@@ -1,0 +1,20 @@
+{
+  "compilerOptions": {
+    "target": "ES2022",
+    "module": "commonjs",
+    "moduleResolution": "bundler",
+    "strict": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "types": ["node"],
+     "paths": {
+      "@api/*": ["./src/api/*"],
+      "@config/*": ["./src/config/*"],
+      "@fixtures/*": ["./src/fixtures/*"],
+      "@pages/*": ["./src/pages/*"],
+      "@testdata/*": ["./src/testdata/*"],
+      "@utils/*": ["./src/utils/*"]
+    }
+  },
+  "include": ["src/**/*.ts", "tests/**/*.ts", "playwright.config.ts"]
+}
